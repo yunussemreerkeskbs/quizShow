@@ -5,7 +5,7 @@ act : hareket
 action : aksiyon
 actually : aslinda
 add : eklemek
-addition : ek olarak
+addition : ek_olarak
 adjective : sifat
 afraid : korkmus
 africa : afrika
@@ -18,14 +18,14 @@ agreed : anlasildi
 ahead : onunde
 air : hava
 all : hepsi
-allow : izin vermek
+allow : izin_vermek
 almost : neredeyse
 alone : yalniz
 along : boyunca
 already : zaten
 also : ayrica
 although : ragmen
-always : her zaman
+always : her_zaman
 baby : bebek
 back : arka
 bad : kotu
@@ -48,7 +48,7 @@ behind : arka
 being : olmak
 believe : inanmak
 bell : zil
-belong : ait olmak
+belong : ait_olmak
 below : altinda
 call : aramak
 came : geldi
@@ -75,16 +75,16 @@ certain : kesin
 chance : sans
 change : degismek
 chart : tablo
-check : kontrol etmek
+check : kontrol_etmek
 chief : sef
 child : cocuk
-dance : dans etmek
+dance : dans_etmek
 dark : karanlik
 day : gun
 dead : olu
 deal : anlasma
 death : olum
-decide : karar vermek
+decide : karar_vermek
 decimal : ondalik
 deep : derin
 describe : aciklamak
@@ -117,7 +117,7 @@ edge : kenar
 effect : etki
 egg : yumurta
 eight : sekiz
-either : ikisi de
+either : ikisi_de
 electric : elektrik
 element : element
 else : diger
@@ -144,14 +144,14 @@ law : kanun
 lay : uzanmak
 lead : kursun
 learn : ogrenmek
-least : en azi
+least : en_azi
 leave : terketmek
-led : onderlik etmek 
+led : onderlik_etmek 
 left : sol
 leg : ayak
 length : uzunluk
 less : az
-let : izin vermek
+let : izin_vermek
 machine : makine
 made : yapilmis
 main : ana
